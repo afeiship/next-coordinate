@@ -1,0 +1,27 @@
+{
+  "name": "next-coordinate",
+  "version": "0.0.1",
+  "description": "Coordinate for next",
+  "main": "dist/next-coordinate.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-coordinate",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
